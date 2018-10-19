@@ -1,5 +1,5 @@
 {
-  "name": "tech783/hello-composer",
+  "name": "tech783/helpers",
   "description": "My first packagist package",
   "type": "package",
   "require": {
