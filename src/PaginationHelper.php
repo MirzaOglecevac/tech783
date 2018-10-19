@@ -6,6 +6,8 @@
  * Time: 14:40
  */
 
+/* Comment */
+
 namespace tech783\HelloComposer;
 
 class PaginationHelper
