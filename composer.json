@@ -16,7 +16,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "tech783\\HelloComposer\\": "src/"
+      "tech783\\PhpHelpers\\": "src/"
     }
   }
 }

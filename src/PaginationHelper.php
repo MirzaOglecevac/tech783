@@ -8,7 +8,7 @@
 
 /* Comment */
 
-namespace tech783\HelloComposer;
+namespace tech783\PhpHelpers;
 
 class PaginationHelper
 {

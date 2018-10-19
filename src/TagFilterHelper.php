@@ -6,7 +6,7 @@
  * Time: 16:03
  */
 
-namespace tech783\HelloComposer;
+namespace tech783\PhpHelpers;
 
 class TagFilterHelper
 {

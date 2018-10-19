@@ -9,7 +9,7 @@
 
 // If you don't to add a custom vendor folder, then use the simple class
 // namespace HelloComposer;
-namespace tech783\HelloComposer;
+namespace tech783\PhpHelpers;
 
 class Hello
 {
