@@ -42,7 +42,7 @@ class InputChecker
                 break;
             // check if string
             case 'STRING': 
-                if(is_string($input)){
+                if(is_string($input) && !is_numeric($input)){
                     $state  = true;
                 }
                 break;
